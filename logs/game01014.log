@@ -1,0 +1,19 @@
+# Server version 0.08 running on 142.157.21.24:8123
+# Game ID: 1014
+# Board class: pentago_swap.PentagoBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Wed Apr 10 16:36:19 EDT 2019
+# Player 1: Player-0, '760726872', running on 142.157.21.24
+# Player 2: Player-1, '560726872', running on 142.157.21.24
+START Player-0 760726872
+START Player-1 560726872
+1 1 TL TR 0
+1 1 TL TR 1
+4 1 TL TR 0
+4 4 TL TR 1
+0 1 TL TR 0
+2 1 TL TR 1
+5 1 TL BL 0
+GAMEOVER ILLEGAL MOVE: Player 1, Move: (2, 1), Swap: (TL, TR) WINNER 0
+# Game ended: Wed Apr 10 16:36:22 EDT 2019

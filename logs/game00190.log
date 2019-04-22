@@ -1,0 +1,23 @@
+# Server version 0.08 running on 142.157.21.24:8123
+# Game ID: 190
+# Board class: pentago_swap.PentagoBoard
+# Timeout: 300000
+# First Move Timeout: 30000
+# Date: Fri Apr 05 15:27:24 EDT 2019
+# Player 1: Player-0, 'RandomPlayer', running on 142.157.21.24
+# Player 2: Player-1, '260772647', running on teaching.cs.mcgill.ca
+START Player-0 RandomPlayer
+START Player-1 260772647
+5 2 TR BR 0
+1 2 TR BR 1
+0 3 TL TR 0
+1 1 BL BR 1
+4 0 BL BR 0
+1 0 TL TR 1
+2 2 TL BL 0
+1 5 TL BL 1
+5 3 BL BR 0
+1 1 TL TR 1
+2 2 TL TR 0
+GAMEOVER WINNER 1
+# Game ended: Fri Apr 05 15:27:25 EDT 2019
